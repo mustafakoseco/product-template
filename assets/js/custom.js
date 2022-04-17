@@ -1,6 +1,10 @@
 onloadMain = () => {
   const item = new XMLHttpRequest();
-  item.open("GET", "../assets/pro-list/product-list.json", true);
+  item.open(
+    "GET",
+    "https://mustafakoseco.github.io/segmentify-shop/blob/main/assets/js/custom.js",
+    true
+  );
   item.onload = function () {
     let itemObject, itemList, itemHTML, categoryList;
     var selectedElement = 0;
