@@ -11,4 +11,4 @@ bozulma olmadan çalışmaktadır.
 
 Link: https://mustafakoseco.github.io/segmentify-shop/
 
-![alt text](https://www.segmentify.com/wp-content/uploads/2020/08/segmentify-logo.svg)
+![alt text](https://r.resimlink.com/hXmrOAn.jpg)
