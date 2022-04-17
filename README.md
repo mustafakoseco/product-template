@@ -10,4 +10,4 @@ Masaüstü ve mobil farklı çözünürlük ve ekran boyutlarında sağlıklı b
 
 Link: https://mustafakoseco.github.io/segmentify-shop/
 
-![alt text](https://r.resimlink.com/hXmrOAn.jpg)
+![alt text](https://imgyukle.com/f/2022/04/17/RuSdsj.jpg)
