@@ -6,8 +6,7 @@ Bu projede ilk tercih pure Javascript’tir. Ürün verileri iletilen JSON veris
 
 Masaüstü ve mobil çözünürlükte ürünler slide edilebilir durumdadır.
 
-Masaüstü ve mobil farklı çözünürlük ve ekran boyutlarında sağlıklı bir şekilde,
-bozulma olmadan çalışmaktadır.
+Masaüstü ve mobil farklı çözünürlük ve ekran boyutlarında sağlıklı bir şekilde, bozulma olmadan çalışmaktadır.
 
 Link: https://mustafakoseco.github.io/segmentify-shop/
 
