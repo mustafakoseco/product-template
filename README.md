@@ -2,9 +2,12 @@
 
 Proje Tanımı
 
-Bu proje, Segmentify Customer Success ve Onboarding ekiplerimizde Front-End
-pozisyonu için işe alım sürecinin ilk aşaması olan, proje hazırlama adımında rehberlik etmesi
-için hazırlanmıştır.
+Bu projede ilk tercih pure Javascript’tir. Ürün verileri iletilen JSON verisinden dinamik olarak alınmıştır.
+
+Masaüstü ve mobil çözünürlükte ürünler slide edilebilir durumdadır.
+
+Masaüstü ve mobil farklı çözünürlük ve ekran boyutlarında sağlıklı bir şekilde,
+bozulma olmadan çalışmaktadır.
 
 Link: https://mustafakoseco.github.io/segmentify-shop/
 
