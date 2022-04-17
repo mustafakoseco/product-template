@@ -2,7 +2,7 @@ onloadMain = () => {
   const item = new XMLHttpRequest();
   item.open(
     "GET",
-    "https://mustafakoseco.github.io/segmentify-shop/blob/main/assets/js/custom.js",
+    "https://mustafakoseco.github.io/segmentify-shop/assets/js/custom.js",
     true
   );
   item.onload = function () {
