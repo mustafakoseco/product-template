@@ -8,6 +8,6 @@ Masaüstü ve mobil çözünürlükte ürünler slide edilebilir durumdadır.
 
 Masaüstü ve mobil farklı çözünürlük ve ekran boyutlarında sağlıklı bir şekilde, bozulma olmadan çalışmaktadır.
 
-Link: https://mustafakoseco.github.io/segmentify-shop/
+Link: https://mustafakoseco.github.io/product-template/
 
 ![alt text](https://imgyukle.com/f/2022/04/17/RuSdsj.jpg)
